@@ -1,0 +1,1 @@
+# React Edge Extension Boilerplate
